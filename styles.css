@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(160, 209, 215);
+}
+
+h1 {
+  color: white;
+  padding: 0px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+    text-shadow: 2px 2px rgb(101, 92, 92);
+    font-size: 45px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2 {
+  color: white;
+  margin: 50px;
+  text-shadow: 2px 2px rgb(101, 92, 92);
+  font-size: 30px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+label {
+  color: white;
+  margin: 5px;
+  text-shadow: 2px 2px rgb(101, 92, 92);
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+input {
+  margin: 15px;
+  font-size: 15px;
+}
